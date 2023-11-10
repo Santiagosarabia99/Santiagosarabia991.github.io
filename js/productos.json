@@ -1,51 +1,51 @@
 [
     {
-        "id": "abrigo-01",
-        "titulo": "Abrigo 01",
-        "imagen": "./img/abrigos/01.jpg",
+        "id": "Accesorio-01",
+        "titulo": "Accesorio 01",
+        "imagen": "./img/Accesorios/01.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Accesorios",
+            "id": "Accesorios"
         },
         "precio": 1000
     },
     {
-        "id": "abrigo-02",
-        "titulo": "Abrigo 02",
-        "imagen": "./img/abrigos/02.jpg",
+        "id": "Accesorio-02",
+        "titulo": "Accesorio 02",
+        "imagen": "./img/Accesorios/02.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Accesorios",
+            "id": "Accesorios"
         },
         "precio": 1000
     },
     {
-        "id": "abrigo-03",
-        "titulo": "Abrigo 03",
-        "imagen": "./img/abrigos/03.jpg",
+        "id": "Accesorio-03",
+        "titulo": "Accesorio 03",
+        "imagen": "./img/Accesorios/03.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Accesorios",
+            "id": "Accesorios"
         },
         "precio": 1000
     },
     {
-        "id": "abrigo-04",
-        "titulo": "Abrigo 04",
-        "imagen": "./img/abrigos/04.jpg",
+        "id": "Accesorio-04",
+        "titulo": "Accesorio 04",
+        "imagen": "./img/Accesorios/04.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Accesorios",
+            "id": "Accesorios"
         },
         "precio": 1000
     },
     {
-        "id": "abrigo-05",
-        "titulo": "Abrigo 05",
-        "imagen": "./img/abrigos/05.jpg",
+        "id": "Accesorio-05",
+        "titulo": "Accesorio 05",
+        "imagen": "./img/Accesorios/05.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Accesorios",
+            "id": "Accesorios"
         },
         "precio": 1000
     },
