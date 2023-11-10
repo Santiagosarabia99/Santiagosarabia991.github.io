@@ -2,7 +2,7 @@
     {
         "id": "Accesorio-01",
         "titulo": "Accesorio 01",
-        "imagen": "./img/Accesorios/01.jpg",
+        "imagen": "./img/accesorios/01.jpg",
         "categoria": {
             "nombre": "Accesorios",
             "id": "Accesorios"
