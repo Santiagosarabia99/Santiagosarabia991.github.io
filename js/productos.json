@@ -7,7 +7,7 @@
             "nombre": "Accesorios",
             "id": "Accesorios"
         },
-        "precio": 1000
+        "precio": 75.00
     },
     {
         "id": "Accesorio-02",
@@ -17,7 +17,7 @@
             "nombre": "Accesorios",
             "id": "Accesorios"
         },
-        "precio": 1000
+        "precio": 45.00
     },
     {
         "id": "Accesorio-03",
@@ -27,7 +27,7 @@
             "nombre": "Accesorios",
             "id": "Accesorios"
         },
-        "precio": 1000
+        "precio": 85.00
     },
     {
         "id": "Accesorio-04",
@@ -37,7 +37,7 @@
             "nombre": "Accesorios",
             "id": "Accesorios"
         },
-        "precio": 1000
+        "precio": 50.00
     },
     {
         "id": "Accesorio-05",
@@ -47,7 +47,7 @@
             "nombre": "Accesorios",
             "id": "Accesorios"
         },
-        "precio": 1000
+        "precio": 95.00
     },
     {
         "id": "camiseta-01",
@@ -130,53 +130,53 @@
         "precio": 1000
     },
     {
-        "id": "pantalon-01",
-        "titulo": "Pantalón 01",
-        "imagen": "./img/pantalones/01.jpg",
+        "id": "Balon-01",
+        "titulo": "Balón 01",
+        "imagen": "./img/Balones/01.jpg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Balones",
+            "id": "Balones"
         },
-        "precio": 1000
+        "precio": 45.50
     },
     {
-        "id": "pantalon-02",
-        "titulo": "Pantalón 02",
-        "imagen": "./img/pantalones/02.jpg",
+        "id": "Balon-02",
+        "titulo": "Balón 02",
+        "imagen": "./img/Balones/02.jpg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Balones",
+            "id": "Balones"
         },
-        "precio": 1000
+        "precio": 50.75
     },
     {
-        "id": "pantalon-03",
-        "titulo": "Pantalón 03",
-        "imagen": "./img/pantalones/03.jpg",
+        "id": "Balon-03",
+        "titulo": "Balón 03",
+        "imagen": "./img/Balones/03.jpg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Balones",
+            "id": "Balones"
         },
-        "precio": 1000
+        "precio": 90.50
     },
     {
-        "id": "pantalon-04",
-        "titulo": "Pantalón 04",
-        "imagen": "./img/pantalones/04.jpg",
+        "id": "Balon-04",
+        "titulo": "Balón 04",
+        "imagen": "./img/Balones/04.jpg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Balones",
+            "id": "Balones"
         },
-        "precio": 1000
+        "precio": 120
     },
     {
-        "id": "pantalon-05",
-        "titulo": "Pantalón 05",
-        "imagen": "./img/pantalones/05.jpg",
+        "id": "Balon-05",
+        "titulo": "Balón 05",
+        "imagen": "./img/Balones/05.jpg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Balones",
+            "id": "Balones"
         },
-        "precio": 1000
+        "precio": 75.00
     }
 ]
