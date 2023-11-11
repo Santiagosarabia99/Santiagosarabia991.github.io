@@ -12,7 +12,7 @@
     {
         "id": "Accesorio-02",
         "titulo": "Accesorio 02",
-        "imagen": "./img/Accesorios/02.jpg",
+        "imagen": "./img/accesorios/02.jpg",
         "categoria": {
             "nombre": "Accesorios",
             "id": "Accesorios"
@@ -21,7 +21,7 @@
     },
     {
         "id": "Accesorio-03",
-        "titulo": "Accesorio 03",
+        "titulo": "accesorio 03",
         "imagen": "./img/Accesorios/03.jpg",
         "categoria": {
             "nombre": "Accesorios",
@@ -32,7 +32,7 @@
     {
         "id": "Accesorio-04",
         "titulo": "Accesorio 04",
-        "imagen": "./img/Accesorios/04.jpg",
+        "imagen": "./img/accesorios/04.jpg",
         "categoria": {
             "nombre": "Accesorios",
             "id": "Accesorios"
@@ -42,7 +42,7 @@
     {
         "id": "Accesorio-05",
         "titulo": "Accesorio 05",
-        "imagen": "./img/Accesorios/05.jpg",
+        "imagen": "./img/accesorios/05.jpg",
         "categoria": {
             "nombre": "Accesorios",
             "id": "Accesorios"
